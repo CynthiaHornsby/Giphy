@@ -1,0 +1,16 @@
+button {
+    background-color: #c2846b;
+    color: white;
+    border: 1px solid #8b3626 #d8bfd8;
+    padding: 2px 10px 2px 10px;
+    margin: 2px 2px 5px 2px;
+    border-radius: 5px;
+}
+
+.container {
+    margin: 10px;
+}
+
+.images {
+    padding: 2px 2px 2px 40px;
+}
